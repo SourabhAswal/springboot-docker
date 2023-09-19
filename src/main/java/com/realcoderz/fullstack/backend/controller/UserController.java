@@ -11,6 +11,7 @@ import java.util.List;
 
 // Author : Sourabh Aswal T-30may2023
 @RestController
+@CrossOrigin("http://localhost:3000/")
 public class UserController {
 
     @Autowired

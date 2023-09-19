@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: sourabhaswalrealcoderz
+    url: jdbc:mysql://34.29.174.190/fullstack
+    username: sourabhaswalrealcoderz
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+
